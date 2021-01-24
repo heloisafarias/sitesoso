@@ -1,0 +1,167 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Verdana"
+}
+
+body {
+	background: #ccffcc;
+}
+
+.primeiro {
+	float: left;
+	width: 33%;
+}
+
+.segundo {
+	float: left;
+	width: 33%;
+}
+
+
+.terceiro {
+	float: left;
+	width: 33%;
+}
+
+.container {
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+#temperos {
+	text-align: center;
+	margin: 0 auto;
+}
+
+#topo {
+	margin: auto;
+	text-indent: justify;
+	width: 650px;
+	padding: 15px 15px;
+}
+
+#topo .header {
+	width: 660px;
+}
+
+#topo #topo2 {
+	padding: 15px 15px;
+	text-align: center; 
+	line-height: 1.6;
+	font-size: 16px;
+}
+
+
+.produto h1 {
+	background-color: #39C775;
+	border: 1px solid #1D5033;
+	font-size: 16px;
+	width: 240px;
+	margin: auto;
+}
+
+.img {
+	padding-top: 5px;
+	border: 1px solid #1D5033;
+	width: 240px;
+}
+
+.numero {
+	width: 50px;
+	height: 30px;
+	padding-top: 5px;
+}
+
+.preco {
+	font-size: 16px;
+	padding: 10px 10px;
+	border: 1px solid #1D5033;
+	background-color: #39C775;
+	font-weight: bold;
+	width: 165px;
+	margin: 5px auto;
+}
+
+
+.button {
+	margin-top: 7px;
+	margin-bottom: 18px;
+}
+
+#mercearia h1 {
+	text-align: center;
+	background: #B3B6AF;
+	width: 700px;
+	margin: auto;
+	clear: both;
+	border: 2px solid black;
+	padding: 25px;
+	font-size: 5em;
+	color: #565656;
+}
+
+#temperos h1 {
+	text-align: center;
+	background: #B3B6AF;
+	width: 700px;
+	margin: auto;
+	clear: both;
+	border: 2px solid black;
+	padding: 25px;
+	font-size: 5em;
+	color: #565656;
+}
+
+.chas h1 {
+	text-align: center;
+	background: #B3B6AF;
+	width: 700px;
+	margin: auto;
+	clear: both;
+	border: 2px solid black;
+	padding: 25px;
+	font-size: 5em;
+	color: #565656;
+}
+
+#table {
+	text-align: center;
+	width: 450px;
+	margin: auto;
+	background: white;
+}
+
+.numero2 {
+	width: 10px
+	height: 20px;
+}
+ 
+.tempero2 {
+	width: 120px;
+}
+
+.titulo {
+	margin: 3px;
+	font-weight: bold;
+	padding: 5px;
+
+}
+
+tr:hover {
+	background-color: #B3FFA8;
+}
+
+.tempero2:hover {
+	background-color: #B3FFA8;
+}
+
